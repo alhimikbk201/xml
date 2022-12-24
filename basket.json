@@ -1,0 +1,47 @@
+{
+    "basket": {
+    "product": {
+        "ram": {
+            "brand": "micron",
+            "model": "Crucial",
+            "memory": "8gb",
+            "frequency": "3200MG",
+            "type": "DDR4",
+            "price": "5500"
+        },
+        "cpu": {
+            "brand": "intel",
+            "model": "i5-9800k",
+            "frequency": "4.5G",
+            "price": "20500"
+        },
+        "phone": {
+            "brand": "samsung",
+            "model": "galaxy s10",
+            "ram": "8gb",
+            "cpu": "Qualcomm Snapdragon 865",
+            "rom": "128G",
+            "display": "6 inch"
+        }
+    },
+    "compositeGoods": {
+        "pc": {
+            "ram": {
+                "brand": "micron",
+                "model": "Crucial",
+                "memory": "8gb",
+                "frequency": "3200MG",
+                "type": "DDR4",
+                "price": "5500"
+            },
+            "cpu": {
+                "brand": "intel",
+                "model": "i5-9800k",
+                "frequency": "4.5G",
+                "price": "20500"
+            },
+            "totalprice": "26000"
+        }
+    }
+}
+}
