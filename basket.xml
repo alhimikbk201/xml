@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<basket>
+    <product>
+        <ram>
+            <brand>micron</brand>
+            <model>Crucial</model>
+            <memory>8gb</memory>
+            <frequency>3200MG</frequency>
+            <type>DDR4</type>
+            <price>5500</price>
+        </ram>
+       
+       <cpu>
+            <brand>intel</brand>
+            <model>i5-9800k</model>
+            <frequency>4.5G</frequency>
+            <price>20500</price>
+        </cpu>
+        
+        <phone>
+            <brand>samsung</brand>
+            <model>galaxy s10</model>
+            <ram>8gb</ram>
+            <cpu>Qualcomm Snapdragon 865</cpu>
+            <rom>128G</rom>
+            <display>6 inch</display>
+        </phone>
+        
+        
+    </product>
+    
+    <compositeGoods>
+        <pc>
+           <ram>
+            <brand>micron</brand>
+            <model>Crucial</model>
+            <memory>8gb</memory>
+            <frequency>3200MG</frequency>
+            <type>DDR4</type>
+            <price>5500</price>
+        </ram>
+        <cpu>
+            <brand>intel</brand>
+            <model>i5-9800k</model>
+            <frequency>4.5G</frequency>
+            <price>20500</price>
+        </cpu>
+        <totalprice>26000</totalprice>
+       </pc>
+        
+        
+    </compositeGoods>
+</basket> 
